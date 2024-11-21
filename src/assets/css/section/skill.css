@@ -52,7 +52,7 @@
     font-size: 1.1rem;
 }
 
-@meida (max-width: 800px) {
+@media (max-width: 800px) {
     .skill_inner {
         flex-direction: column;
     }
