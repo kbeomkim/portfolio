@@ -1,6 +1,6 @@
 export function menu() {
     const headerToggle = document.getElementById("headerToggle");
-    const headerNav = document.querySelector(".header__nav");
+    const headerNav = document.querySelector(".header_nav");
 
     if (headerToggle) {
         headerToggle.addEventListener("click", () => {
